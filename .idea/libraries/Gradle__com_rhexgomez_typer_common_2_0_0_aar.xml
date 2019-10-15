@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rhexgomez.typer:common:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b6d596f5dc2611355172e2fb0ca0a89/jetified-common-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b6d596f5dc2611355172e2fb0ca0a89/jetified-common-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rhexgomez.typer/common/2.0.0/5629a382a22cd7c492fcb8cc5b86711066546d4/common-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rhexgomez.typer/common/2.0.0/de0d6beedf641a1e6753fdbce05ab4498c60e5e1/common-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
