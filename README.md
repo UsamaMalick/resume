@@ -1,4 +1,9 @@
 # Personal-Resume
+
+# Link to Play Store account of Application.
+link: https://play.google.com/store/apps/details?id=com.smasherUsama.resume
+
+
 App Template for Creating your own Personal Resume. Its an instant application in which "App Linking" is integrated with my github.io page. See the app linking tutorial from here: https://www.youtube.com/watch?v=lpaByLW_ctw  For app linking to my github.io page I used the following repo: https://github.com/shahwaiz90/shahwaiz90.github.io (see its config and make your own github.io)
 
 What you need to do:
