@@ -1,6 +1,6 @@
 # Personal-Resume
 
-# Link to Play Store account of Application.
+Link to Play Store account of Application.
 link: https://play.google.com/store/apps/details?id=com.smasherUsama.resume
 
 
